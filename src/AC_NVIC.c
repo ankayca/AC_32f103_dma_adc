@@ -2,7 +2,7 @@
  * AC_NVIC.c
  *
  *  Created on: Aug 12, 2021
- *      Author: ahmet
+ *      Author: Ankayca
  */
 #include "AC_NVIC.h"
 

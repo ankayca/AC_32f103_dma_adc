@@ -2,7 +2,7 @@
  * AC_GPIO.c
  *
  *  Created on: Aug 12, 2021
- *      Author: ahmet
+ *      Author: Ankayca
  */
 #include "AC_GPIO.h"
 void AC_GPIOInit(void)

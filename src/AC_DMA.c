@@ -2,7 +2,7 @@
  * AC_DMA.c
  *
  *  Created on: Aug 12, 2021
- *      Author: ahmet
+ *      Author: Ankayca
  */
 
 #ifndef AC_DMA_C_

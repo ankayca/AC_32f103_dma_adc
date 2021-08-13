@@ -2,7 +2,7 @@
  * AC_NVIC.h
  *
  *  Created on: Aug 12, 2021
- *      Author: ahmet
+ *      Author: Ankayca
  */
 
 #ifndef AC_NVIC_H_

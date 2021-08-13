@@ -2,7 +2,7 @@
  * AC_EXTI.c
  *
  *  Created on: Aug 12, 2021
- *      Author: ahmet
+ *      Author: Ankayca
  */
 #include "AC_EXTI.h"
 void AC_EXTIInit(void)

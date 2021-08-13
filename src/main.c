@@ -52,8 +52,8 @@ SOFTWARE.
 **
 **===========================================================================
 */
-uint16_t adcValue[2];			//ADC VALUE
-
+uint16_t adcValue[2];			//ADC_BUFFER
+uint16_t adc_value;
 // GPIO_Pin_14 = transistor 1
 // GPIO_Pin_15 = transistor 2
 // buttons 5,6 7,8,9 are increament , decreament , start , fullpressure
@@ -103,6 +103,7 @@ int main(void)
   {
 	  if(start_flag){
 		  counter=counter*100;
+		  adc_value=(adcValue[0]+adcValue[1])/2;
 		  if (100>abs(adcValue - counter))
 		  {
 			  GPIOC ->ODR |= (1UL<<15);

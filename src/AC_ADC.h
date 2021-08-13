@@ -2,7 +2,7 @@
  * Ankyc_ADC.h
  *
  *  Created on: Aug 12, 2021
- *      Author: ahmet
+ *      Author: Ankayca
  */
 
 #ifndef AC_ADC_H_
